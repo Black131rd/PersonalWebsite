@@ -1,5 +1,10 @@
 # GitHub Deploy Keys
 [Tutorial](https://dylancastillo.co/posts/how-to-use-github-deploy-keys.html)
+## Update, Installs 
+```
+sudo apt update
+sudo apt install git
+```
 ## Create SSH Key on the Server
 [Github Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
 <br>
